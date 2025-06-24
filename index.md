@@ -1,15 +1,9 @@
----
-title: About Alembic
-feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
----
+## Shweta Sharma 
+I am Research scholar at IIT Roorkee in Computer Science Department. I am pursuing Ph.D degress under the kind guidance of Prof. R. Balasubramanian. My field of interest is Action recognition and Multimodal learning.
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Prior to comitting to this degree I have worked in the industry for 2.5 years providing the solutions in Computer vision and OCR technologies. I am  a AI enthusiast and likes to listen music and watch movies, old as well.   
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Github" icon="github" link="https://github.com/shwandere" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="www.linkedin.com/in/shweta-sharma-47a49869" color="#f68140" %} {% include button.html text="Gmail" icon="gmail" link="shweta_s@cs.iitr.ac.in" color="#0d94e7" %} 
 
 ## Features
 
