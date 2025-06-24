@@ -38,7 +38,7 @@ plugins:
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
+linkedin:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
@@ -46,7 +46,7 @@ social: # jekyll-seo-tag > social overrides
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://github.com/shwandere
     - www.linkedin.com/in/shweta-sharma-47a49869
-    - shweta_s@cs.iitr.ac.in
+    - mailto:shwetasharma@gmail.com
     
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
