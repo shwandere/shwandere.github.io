@@ -3,7 +3,7 @@ I am Research scholar at IIT Roorkee in Computer Science Department. I am pursui
 
 Prior to comitting to this degree I have worked in the industry for 2.5 years providing the solutions in Computer vision and OCR technologies. I am  a AI enthusiast and likes to listen music and watch movies, old as well.   
 
-{% include button.html text="Github" icon="github" link="https://github.com/shwandere" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="www.linkedin.com/in/shweta-sharma-47a49869" color="#f68140" %} {% include button.html text="Gmail" icon="email" link="shweta_s@cs.iitr.ac.in" color="#0d94e7" %} 
+{% include button.html text="Github" icon="github" link="https://github.com/shwandere" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="www.linkedin.com/in/shweta-sharma-47a49869" color="#f68140" %} {% include button.html text="Gmail" icon="gmail" link="shweta_s@cs.iitr.ac.in" color="#0d94e7" %} 
 
 ## Features
 
