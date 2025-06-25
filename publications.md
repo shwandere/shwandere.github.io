@@ -13,6 +13,8 @@ Yet to be published
 
 - Saxena, A. K., Sharma, S., & Chaurasia, V. K. (2015, May). *Human age-group estimation using curvelet features*. In *Advances in Computing and Communication Engineering (ICACCE), 2015 Second International Conference on* (pp. 610–615). **IEEE**.
 
+- Veit, A., Wilber, M., Vaish, R., Belongie, S., Davis, J., Anand, V., ... & De-varaj, C. (2015). On optimizing human-machine task assignments. arXiv preprint **arXiv**:1509.07543.
+
 - 📘 **M.Tech Thesis**: *Human Age-group Estimation in the Curvelet Domain Using Neural Networks*.  
   [View Thesis (PDF)](https://drive.google.com/file/d/1vFPtLcu6VedUpaaKih3AzNYuWR5hGDCD/view?usp=drive_link)
 
