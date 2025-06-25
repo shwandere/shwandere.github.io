@@ -1,6 +1,9 @@
 <header class="header">
   <div class="container">
     {% if site.logo %}{% include site-logo.html %}{% endif %}
+    {% if page.logo %}
+  <img src="{{ page.logo | relative_url }}" alt="Logo" style="height: 60px; border-radius: 8px;">
+{% endif %}
     {% if site.photo %}{% if page.url == "/" %}<img src="{{ site.photo | relative_url }}" alt="photo" style="height: 160px; border-radius: 8px;">{% endif %}{% endif %}
     {% include nav-header.html %}
   </div>
