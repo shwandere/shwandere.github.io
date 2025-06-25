@@ -9,6 +9,7 @@ I am  a AI enthusiast. I like to listen to music and watch movies, old as well.A
 
 ## Updates
 - Completed certification course from coursera in [Machine Learning on Google Cloud Specialisation](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- Completed project in Generative AI on Audio Visual Face Editing
 - Completed course works Generative AI and **Deep Learning** from [nptel](https://swayam.gov.in/) in May 2025
 - Completed course works Machine Learning and Image Processing and Signal Processing in Dec 2024
 - Joined PhD. in July 2024
