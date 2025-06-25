@@ -127,6 +127,8 @@ navigation_header:
   url: /posts/
 - title: CV
   url: /resume/
+- title: Projects
+  url: /projects/
 - title: Publications
   url: /publications/
 
