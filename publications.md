@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+logo: /assets/logos/a beautiful mind.jpg
 ---
 
 ## Ph.D.
