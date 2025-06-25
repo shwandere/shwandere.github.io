@@ -7,25 +7,13 @@ I am  a AI enthusiast. I like to listen to music and watch movies, old as well.A
 
 {% include button.html text="Github" icon="github" link="https://github.com/shwandere" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/in/shweta-sharma-47a49869" color="#f68140" %} {% include button.html text="Email me" icon="gmail" link="mailto:shweta_s@cs.iitr.ac.in" color="#0d94e7" %} 
 
-## Features
+## Updates
+- Completed certification course from coursera in [Machine Learning on Google Cloud Specialisation](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- Completed course works Generative AI and **Deep Learning** from [nptel](https://swayam.gov.in/) in May 2025
+- Completed course works Machine Learning and Image Processing and Signal Processing in Dec 2024
+- Joined PhD. in July 2024
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
-
-## Examples
+## Posts
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
