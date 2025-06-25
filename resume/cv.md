@@ -3,7 +3,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /resume/
 ---
 
 # My Curriculum Vitae
