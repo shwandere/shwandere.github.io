@@ -132,10 +132,9 @@ navigation_header:
   url: /Posts/
 - title: CV
   url: /resume/
-- title: Projects
-  url: /projects/
 - title: Publications
   url: /publications/
+
 
 navigation_footer:
 - title: Created by David Darnes
