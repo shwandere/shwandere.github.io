@@ -94,7 +94,12 @@ defaults:
 #encoding: utf-8 # Make sure the encoding is right
 #lang: en-GB # Set the site language
 #title: "Shweta Sharma" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo@16px.png" # Site logo, also used in jekyll-seo-tag
+logo: 
+  whiplash: "/assets/logos/whiplash.jpeg"
+  contact: "/assets/logos/contact.jpg"
+  a_beautiful_mind: "/assets/logos/a beautiful mind.jpg"
+  good_will_hunting: "/assets/logos/good will hunting.png"
+  # Site logo, also used in jekyll-seo-tag
 #description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 #baseurl: ""
@@ -123,12 +128,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-#- title: Posts
-  #url: /posts/
+- title: Posts
+  url: /posts/
 - title: CV
   url: /resume/
-#- title: Projects
-  #url: /projects/
+- title: Projects
+  url: /projects/
 - title: Publications
   url: /publications/
 
