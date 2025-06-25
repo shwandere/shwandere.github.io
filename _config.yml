@@ -129,7 +129,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Posts
-  url: /posts/
+  url: /Posts/
 - title: CV
   url: /resume/
 - title: Projects
