@@ -3,7 +3,6 @@ layout: page
 title: Posts
 logo: /assets/logos/good will hunting.png
 permalink: /Posts/
-categories: blog
 ---
 
 <ul>
