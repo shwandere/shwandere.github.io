@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Post"
+title: "Good will hunting"
 date: 2025-06-25
 tags: [math, movies, graphs]
 --- 
