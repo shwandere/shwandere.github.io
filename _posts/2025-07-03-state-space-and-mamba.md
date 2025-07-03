@@ -6,7 +6,7 @@ tags: [research, state space, mamba]
 --- 
 
 The video explained how state space = RNNs + CNNs  
-[](https://www.youtube.com/watch?v=g1AqUhP00Do)
+[Referenced video](https://www.youtube.com/watch?v=g1AqUhP00Do)
 
 It explained with respect to LLMs and how state space makes them faster. 
 
@@ -24,7 +24,7 @@ It took the example of car repair and related it to RNN equations. and converted
 Those convolutions are what making SSMs faster than RNNs. 
 
 ## What is mamba : 
-[](https://arxiv.org/abs/2312.00752)
+[Paper reference](https://arxiv.org/abs/2312.00752)
 Mambas are selective SSMs. 
 "Selective SSMs introduce attention-like behavior by dynamically selecting or modulating token updates based on the input. While traditional SSMs use static parameters (A, B, C), selective SSMs make these updates input-dependent. This allows them to prioritize certain tokens over others, similar to attention, and enables effective learning through backpropagation."
 
