@@ -13,9 +13,10 @@ It explained with respect to LLMs and how state space makes them faster.
 So what it explained : 
 
 It took the example of car repair and related it to RNN equations. and converted all RNNs equations in terms of input and output variables. And all the equations can be expressed as convolutions of state space matrices with inputs. 
-![](/assets/logos/Screenshot%20from%202025-07-01 14-31-50.png)
+
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-29-40.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-05.png)
+![](/assets/logos/Screenshot%20from%202025-07-01 14-31-50.png)
 ![]((/assets/logos/Screenshot%20from%202025-07-01 14-31-45.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-50 1.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-56.png)
