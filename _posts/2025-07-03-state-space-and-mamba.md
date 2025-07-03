@@ -13,13 +13,13 @@ It explained with respect to LLMs and how state space makes them faster.
 So what it explained : 
 
 It took the example of car repair and related it to RNN equations. and converted all RNNs equations in terms of input and output variables. And all the equations can be expressed as convolutions of state space matrices with inputs. 
-![[Screenshot from 2025-07-01 14-31-50.png]]
-![[Screenshot from 2025-07-01 14-29-40.png]]
-![[Screenshot from 2025-07-01 14-31-05.png]]
-![[Screenshot from 2025-07-01 14-31-45.png]]
-![[Screenshot from 2025-07-01 14-31-50 1.png]]
-![[Screenshot from 2025-07-01 14-31-56.png]]
-![[Screenshot from 2025-07-01 14-32-02.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-31-50.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-29-40.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-31-05.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-31-45.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-31-50 1.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-31-56.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-32-02.png]]
 
 Those convolutions are what making SSMs faster than RNNs. 
 ## What is mamba : 
@@ -65,10 +65,10 @@ Mamba, like Flash Attention, attempts to limit the number of times we need to go
 
 ](https://substackcdn.com/image/fetch/$s_!CeHw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc46b75de-9896-4be1-baac-29c07c68dfd4_1920x448.gif)
 
-Transformer vs SSMs :
+## Transformer vs SSMs :
 how much efficiency related to time, memory and GPU computational cost can we expect with state space. Since the SSMs dont have to save big attention matrics therefore they are linear in memory. And in terms of speed they are linear therefore good for long length sequences. And as described earlier above about Mamba, they improved the performance specially for vision problems. 
 
-![[Screenshot from 2025-07-01 14-37-24.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-37-24.png]]
 
-![[Screenshot from 2025-07-01 14-37-38.png]]
+![[/assets/logos/Screenshot from 2025-07-01 14-37-38.png]]
 
