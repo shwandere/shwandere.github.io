@@ -4,10 +4,11 @@ title: "State Space and Mamba"
 date: 2025-07-03
 tags: [research, state space, mamba]
 --- 
+
 The video explained how state space = RNNs + CNNs 
 https://www.youtube.com/watch?v=g1AqUhP00Do
 
-It explained regarding LLMs and how state space makes them faster. 
+It explained with respect to LLMs and how state space makes them faster. 
 
 So what it explained : 
 
@@ -40,7 +41,9 @@ It **updates the model parameters** — including:
 
 The **tokens get modulated** (e.g., gated or filtered) as part of the forward pass — the **learned parameters** decide _how_ they’re modulated.
 
+    
 Here is the structure of the Mamba : 
+
 
 [
 
