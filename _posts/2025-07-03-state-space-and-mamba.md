@@ -13,9 +13,9 @@ It explained with respect to LLMs and how state space makes them faster.
 So what it explained : 
 
 It took the example of car repair and related it to RNN equations. and converted all RNNs equations in terms of input and output variables. And all the equations can be expressed as convolutions of state space matrices with inputs. 
-![[/assets/logos/Screenshot from 2025-07-01 14-31-50.png]]
-![[/assets/logos/Screenshot from 2025-07-01 14-29-40.png]]
-![[/assets/logos/Screenshot from 2025-07-01 14-31-05.png]]
+![](/assets/logos/Screenshot%20from%202025-07-01 14-31-50.png)
+![]/assets/logos/Screenshot%20from%202025-07-01 14-29-40.png)
+![]/assets/logos/Screenshot%20from%202025-07-01 14-31-05.png)
 ![[/assets/logos/Screenshot from 2025-07-01 14-31-45.png]]
 ![[/assets/logos/Screenshot from 2025-07-01 14-31-50 1.png]]
 ![[/assets/logos/Screenshot from 2025-07-01 14-31-56.png]]
@@ -45,7 +45,7 @@ The **tokens get modulated** (e.g., gated or filtered) as part of the forward pa
 Here is the structure of the Mamba : 
 
 
-[
+![
 
 ![](https://substackcdn.com/image/fetch/$s_!fR9z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc94d349d-8620-45a9-8095-7c27de8b7865_1660x1356.png)
 
@@ -57,7 +57,7 @@ What is the difference between the Mamba and SSMs :
 
 Mamba, like Flash Attention, attempts to limit the number of times we need to go from DRAM to SRAM and vice versa. It does so through _kernel fusion_ which allows the model to prevent writing intermediate results and continuously performing computations until it is done.
 
-[
+![
 
 ![](https://substackcdn.com/image/fetch/$s_!CeHw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc46b75de-9896-4be1-baac-29c07c68dfd4_1920x448.gif)
 
