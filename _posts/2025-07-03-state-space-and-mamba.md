@@ -17,7 +17,6 @@ It took the example of car repair and related it to RNN equations. and converted
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-29-40.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-05.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-50.png)
-<!---![]((/assets/logos/Screenshot%20from%202025-07-01 14-31-45.png)--->
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-50 1.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-31-56.png)
 ![](/assets/logos/Screenshot%20from%202025-07-01 14-32-02.png)
