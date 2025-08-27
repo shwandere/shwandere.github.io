@@ -33,20 +33,20 @@ So there are states s ∈ S, actions a ∈ A and rewards r ∈ R. States define 
 
 Now according to the Markov property : 
 	
-		$p(s′,r∣s,a)=Pr(St+1​=s′,Rt+1​=r∣St​=s,At​=a)$
+		p(s′,r∣s,a)=Pr(St+1​=s′,Rt+1​=r∣St​=s,At​=a)
 
 Now comes policy what action is taken by the agent in particular situation. ie. 
 
-		$π(a∣s)=Pr(At​=a∣St​=s)$
+		π(a∣s)=Pr(At​=a∣St​=s)
 		
 Initially this probability is uniformally distributed 
 
 Then comes the goal on the basis of which the policy is updated. It is the maximization of the expectation of the sum of rewards (feedbacks). ie. 
 
-		$max ​Eπ[Gt​]$
+		max ​Eπ[Gt​]
 where $Gt$ is sum of rewards.
 
-# **Example of RL as a case of recycling robot** : 
+### **Example of RL as a case of recycling robot** : 
 
 **MDP Definition**
 
@@ -64,7 +64,7 @@ searching undertaken when the energy level is low leaves it low with probability
 β and depletes the battery with probability 1 − β. In the latter case, the robot
 must be rescued, and the battery is then recharged back to high. Each can
 collected by the robot counts as a unit reward, whereas a reward of −3 results
-whenever the robot has to be rescued. Let $rsearch$ and $rwait$, with $rsearch$ > $rwait$,
+whenever the robot has to be rescued. Let rsearch and rwait, with rsearch > rwait,
 respectively denote the expected number of cans the robot will collect (and
 hence the expected reward) while searching and while waiting. Finally, to keep
 things simple, suppose that no cans can be collected during a run home for
@@ -77,33 +77,26 @@ where $s$ is previous state, $a$ is the action taken and $s'$  is next state. ex
 
 ![](/assets/images/Screenshot from 2025-08-27 12-47-55.png)
 
-%%
-The question that came in my mind at this point was what is the relation between transition probability and policy? Because environment determines the transition probability and agent controls the policy.
-
-When the agent follows a policy π\piπ, the overall probability of moving from state sss to state s′s's′ (and receiving reward rrr) is:
-
-		$Pr(St+1​=s′,Rt+1​=r∣St​=s,π)=∑​π(a∣s)p(s′,r∣s,a)$
-%%
-# Value functions 
+### Value functions 
 
 There are two kinds of value function which define how good it is for the agent to be in a given start after following the policy ie what is the expected return. 
 
 First is state value function that defines the value in the given state when the policy is followed
 
-		$vπ (s) = Eπ[Gt | St = s]$
+		vπ (s) = Eπ[Gt | St = s]
 
 
 Second is the action value function ie the value of taking action a in state s under a policy
 
-		$qπ (s, a) = Eπ[Gt | St = s, At = a]$
+		qπ (s, a) = Eπ[Gt | St = s, At = a]
 
 
 Solving a reinforcement learning task means, roughly, finding a policy that
 achieves a lot of reward over the long run. For finite MDPs, we can precisely
 define an optimal policy in the following way. Value functions define a partial
 ordering over policies. A policy π is defined to be better than or equal to a
-policy $π0$ if its expected return is greater than or equal to that of $π0$ for all
-states. In other words, $π$ ≥ $π0$ if and only if $vπ (s)$ ≥ $vπ0 (s)$ for all s ∈ S. There
+policy π0 if its expected return is greater than or equal to that of π0 for all
+states. In other words, π ≥ π0 if and only if vπ(s) ≥ $vπ0(s) for all s ∈ S. There
 is always at least one policy that is better than or equal to all other policies.
 This is an optimal policy.
 
