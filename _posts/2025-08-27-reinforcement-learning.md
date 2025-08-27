@@ -73,7 +73,7 @@ is depleted. This system is then a finite MDP, and we can write down the
 transition probabilities and the expected rewards, as in Table 3.1.
 
 ![](/assets/images/Screenshot from 2025-08-27 12-44-21.png)
-where $s$ is previous state, $a$ is the action taken and $s'$  is next state. expected reward for that transition is $r(s,a,s')$ and $p(s'|s,a)$ is the transition probability.
+where s is previous state, a is the action taken and s'  is next state. expected reward for that transition is r(s,a,s') and p(s'|s,a) is the transition probability.
 
 ![](/assets/images/Screenshot from 2025-08-27 12-47-55.png)
 
@@ -96,7 +96,7 @@ achieves a lot of reward over the long run. For finite MDPs, we can precisely
 define an optimal policy in the following way. Value functions define a partial
 ordering over policies. A policy π is defined to be better than or equal to a
 policy π0 if its expected return is greater than or equal to that of π0 for all
-states. In other words, π ≥ π0 if and only if vπ(s) ≥ $vπ0(s) for all s ∈ S. There
+states. In other words, π ≥ π0 if and only if vπ(s) ≥ vπ0(s) for all s ∈ S. There
 is always at least one policy that is better than or equal to all other policies.
 This is an optimal policy.
 
