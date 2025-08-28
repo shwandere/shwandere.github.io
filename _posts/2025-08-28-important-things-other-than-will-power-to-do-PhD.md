@@ -2,8 +2,7 @@ One thing that I am learning and in the last two years that I have learnt is emb
 
 I think that line from Gita that "fal ki chinta kiye bina karm kiye ja" suits the journey of PhD. 
 
-Other than this the source that I found important and I will go to it again and again everytime my will power will not work for me is the source below because I cant rely on my father for motivation all the time.  
+Other than this the source that I found important and I will go to it again and again everytime my will power will not work for me is the source below because I cant rely on my father for motivation all the time. 
+[](https://www.thephdpeople.com/navigating-your-phd/what-i-wish-i-knew-before-my-phd/)
 
 Please do share your source of motivation as PhD or non PhD professional. 
-
-![](https://www.thephdpeople.com/navigating-your-phd/what-i-wish-i-knew-before-my-phd/)
