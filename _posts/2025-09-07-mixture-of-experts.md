@@ -7,7 +7,7 @@ tags: [computer vision, attention, transformers, mixture of experts]
 
 I first time read this paper where Mixture of Experts was used for LLMs in multimodality. And chatgpt gave me the definition of mixture of experts with multimodality as a gatekeeper which decides what modality to choose for the final decision. Like if the audio and video modalities are present then the gatekeeper decides what will decide the final decision of the LLM either audio or images. This gave me the impression that it is like an automatic pruning or more precisely say it is dynamic selection of the modality which decides the output of the LLMs. But how the selection is done. And if the control is actually automatic or manual. 
 
-Before starting one of the famous sources for MoE is Maarten Grootendorst's blog for MoE (https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
+Before starting one of the famous sources for MoE is [Maarten Grootendorst's blog for MoE](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 
 Instead of transformers having a heavy (according to parameters wise) feed forward neural network, we have multiple lighter neural networks caller experts. For example there are 64 such experts then only 2 of the experts will be activated of a single input at a time. Thats where the dynamic selection of experts comes. 
 
