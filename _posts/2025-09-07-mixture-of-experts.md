@@ -13,7 +13,7 @@ Instead of transformers having a heavy (according to parameters wise) feed forwa
 
 How it will help selecting the modality? We can train different experts on different modalities and the gating mechanism decide which modality is allowed for the output depending on the gating mechanism weights.so how the gating mechanism is decided? Same as the weights of the neural network are decided with training. The whole system (experts + gate) is trained end-to-end with the main goal as minimizing the loss.The gate learns indirectly: If the gate gives high weight to the wrong expert → task loss goes up. Gradients flow back → gate adjusts its weights to pick the right experts next time. Its just that the gate network is also an FFNN and is used to choose the expert based on a particular input. It outputs probabilities which it uses to select the best matching expert:  
 
-![](/assets/images/Screenshot from 2025-09-07 171354.png)
+![](/assets/images/Screenshot 2025-09-07 171354.png)
 
 This parameter of dynamic activation of experts through gating mechanism is called regularization or sparsity. There are various techniques on the basis of which the sparsity is controlled : 
 
@@ -47,7 +47,7 @@ The main goal of load balancing is to make fi proportional to pi and evenly spre
 
 Now comes what is need of MoE in comparison to attention. There is a paper proposing a MoE Multimodal Graph Attention Network for emotion recognition that combines MoE with graph attention to dynamically integrate audio and visual features with text, demonstrating an alternative to standard fusion methods. Their method sets new state-of-the-art performance in multimodal emotion recognition.
 
-![](/assets/images/Screenshot from 2025-09-07 183412.png)
+![](/assets/images/Screenshot 2025-09-07 183412.png)
 
 Llama4 preferred the MoE over attention network. One thing is sure that MoE is better than attention network in terms of inference time (memory efficient) and better GPU usage as per FLOPs. Other important advantage of MoE over attention is attention is generalized ie every input goes through same weights...no matter the type (specially in multimodality) but in MoE it is specialized learned where few experts weights are updated as per the input type. The disadvantage of MoE is that bias can creep in because only a few experts dominate the outputs instead of the whole model averaging things out. So MoE can help track the modality bias if text experts are routed more often than audio experts
 
