@@ -2,10 +2,11 @@
 layout: post
 title: "Pattern Recognition and Problem Solving"
 date: 2025-09-08
-tags: [newbie, researcher's life, learning, doing, pattern, problem solving]
+tags: [researcher's life, learning, doing, pattern, problem solving]
 --- 
 
-# Project prakash : using the real world to guide the machine. 
+# Project prakash : 
+using the real world to guide the machine. 
 
 Tapan Sir said that dont try to develop the machine but try to perceive the real world and then try to interpret that with the machine learning  Like he did. He tried to understand the Color and gray scale comparison and tried to map the results of C2C, C2G, G2C and G2G to real world. how the results can be used to interpret the reality
 
