@@ -9,6 +9,8 @@ I am  a AI enthusiast. I like to listen to music and watch movies, old as well.A
 
 ## Updates
 
+- Served as a Reviewer in CVIP
+- Attended FDP on "Modern Computer Vision" conducted by EICT,MNIT Jaipur
 - Completed certification course from coursera in [Machine Learning on Google Cloud Specialisation](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 - Completed project in Generative AI on Audio Visual Face Editing
 - Completed course works Generative AI and **Deep Learning** from [nptel](https://swayam.gov.in/) in May 2025
