@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cood lectures to pursue as AI officer"
+title: "Good lectures to pursue as AI officer"
 date: 2025-10-27
 tags: [course, educational, AI officer, CTO]
 --- 
