@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "good lectures to pursue from the aspect of AI officer"
+title: "Cood lectures to pursue as AI officer"
 date: 2025-10-27
 tags: [course, educational, AI officer, CTO]
 --- 
@@ -131,8 +131,6 @@ Here are **3–5 curated YouTube videos** plus **5–10 online course options pe
 5. Operational leadership + vendor/multi-cloud FinOps course (sometimes part of digital ops specialisation).
 
 ---
-
-If you like, I can **create a downloadable spreadsheet** (Google Sheets/Excel) listing *all these modules* with the **links** (YouTube + course links) and columns for “Selected?”, “Start date”, “Due date”, “Notes” so you can track progress. Would you like that?
 
 [1]: https://www.youtube.com/watch?pp=0gcJCfwAo7VqN5tD&v=T0ddxWoQ4No&utm_source=chatgpt.com "3 examples of AI transforming business processes - YouTube"
 [2]: https://www.youtube.com/watch?v=all8mYI3CJ8&utm_source=chatgpt.com "Digital Transformation Strategy in the Era of Generative AI - YouTube"
