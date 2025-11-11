@@ -20,3 +20,5 @@ Keep iterating these steps even in parallel and keep the speed of failure at max
 1) Building foundational knowledge\
 2) Pattern recognition in problem and solution\
 3) Thinking strategically in the process. \
+
+And above all keep asking yourself why...why I approaching the problem the way I am.
