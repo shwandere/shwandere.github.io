@@ -15,4 +15,8 @@ Approach to a problem to research :
 1) how one approach is carried out till now in combination with another approach
 2) how the combination of these approaches is beneficial for the problem
 3) doing experiments with them
-Keep iterating these steps even in parallel and keep the speed of failure at max. Thats what research is. 
+
+Keep iterating these steps even in parallel and keep the speed of failure at max. Thats what research is. This is a slow process but I think it should work. Basic fundamentals still apply :
+1) Building foundational knowledge
+2) Pattern recognition in problem and solution
+3) Thinking strategically in the process. 
