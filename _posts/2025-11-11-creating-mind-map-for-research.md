@@ -12,11 +12,11 @@ For me research constitutes two parts. first is research itself and second part 
 One more thing I want to keep reminding myself is that instead of running behind a solution, its more interesting to find a solution for a problem. I am learning how to approach a problem in research and how to find solution to it. Finding a problem is itself a wholesome task. Following it through to research and finding a solution is what constitute the above mentioned two research aspects.  
 
 Approach to a problem to research : 
-1) how one approach is carried out till now in combination with another approach
-2) how the combination of these approaches is beneficial for the problem
-3) doing experiments with them
+1) how one approach is carried out till now in combination with another approach\
+2) how the combination of these approaches is beneficial for the problem\
+3) doing experiments with them\
 
 Keep iterating these steps even in parallel and keep the speed of failure at max. Thats what research is. This is a slow process but I think it should work. Basic fundamentals still apply :
-1) Building foundational knowledge
-2) Pattern recognition in problem and solution
-3) Thinking strategically in the process. 
+1) Building foundational knowledge\
+2) Pattern recognition in problem and solution\
+3) Thinking strategically in the process. \
