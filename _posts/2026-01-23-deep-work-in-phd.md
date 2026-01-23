@@ -8,10 +8,10 @@ PhD is process where you are the officially owner of the work. So accountability
 
 There are various techniques that help in deep work:\
 1) Give yourself goals for specific period of time\
-2) Breaking down your big timeline goal into small goals\ 
+2) Breaking down your big timeline goal into small goals\
 3) Writing and follow up with your progress from time to time\  
 
-One part of deep work is PhD is to keep in mind that your work in the PhD is to extend the human knowledge and thats how you work. PhD work is about creativity for finding a solution; critical thinking to question an existing work and following your intuition to find a desired research question. One more thing that I am trying to learn is being strategic towards the work and bringing more clarity before continuing towards a defined solution. This process can be broken into more technical terms:\ 
+One part of deep work is PhD is to keep in mind that your work in the PhD is to extend the human knowledge and thats how you work. PhD work is about creativity for finding a solution; critical thinking to question an existing work and following your intuition to find a desired research question. One more thing that I am trying to learn is being strategic towards the work and bringing more clarity before continuing towards a defined solution. This process can be broken into more technical terms:\
 1) finding a research problem\
 2) finding a research question\
-3) working towards building a solution : what I have understood while talking to some seniors the main aim with starting a solution is not perfection, but working towards it consistently. It may take a few iterations to refine the solution. Starting anyway is more important than aiming for perfection. And what I concluded is that your paper does not need to be perfect to get published; it just need to define an idea.\ 
+3) working towards building a solution : what I have understood while talking to some seniors the main aim with starting a solution is not perfection, but working towards it consistently. It may take a few iterations to refine the solution. Starting anyway is more important than aiming for perfection. And what I concluded is that your paper does not need to be perfect to get published; it just need to define an idea.  
