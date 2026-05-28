@@ -1,10 +1,17 @@
+---
+layout: post
+title: "Interesting vidoes to follow"
+date: 2026-5-28
+tags: [research, mind map, problem solving, pattern recognition, concepts, project management]
+--- 
+
 My phd is stagnant and I know/understand how to do research. I had just a vague idea of research. But I dont think that vague idea is helping me anymore. I am trying to understand the research from two perspective - problem solving and project perspective. Project perspective I have got enough strategies and I know just finding how the work is done is not the work itself. This is just another effort to understand the psychology behind understanding the problem solving and how to actually study concepts from a problem solving and this is still not the actual work. It is an effort to give myself direction and method that how should I do research. The following writing is based on these two goals only : 
 - understand the psychology behind the problem solving and finding the tools or methods that of problem solving 
 - common tools, procedures or concepts that I can use to move ahead in research
 
 So I watched these two videos. And the videos were about problem solving and learning new concepts. 
 
-1)   [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o&list=PLEcpBsTn1XH0zX3YbXwest09U8JXIArqD&index=29)
+1)   [Unlocking Your Intuition: How to Solve Hard Problems Easily](https://www.youtube.com/watch?v=1f6N2UrCK6o&list=PLEcpBsTn1XH0zX3YbXwest09U8JXIArqD&index=29)\
 2)   [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus&list=PLEcpBsTn1XH0zX3YbXwest09U8JXIArqD&index=30)
 
 # problem solving : 
