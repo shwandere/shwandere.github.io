@@ -81,3 +81,7 @@ Learning a concept **intuitively**—understanding it as a fundamental truth rat
 **dont believe in IQ 
 
 ![](/assets/logos/Screenshot 2026-05-27 175644.png)
+
+I am afraid what if I am just again getting distracted only. So for that : 
+1) I have spent a holiday on this video. 
+2) i am giving myself 2 weeks to track if this is working or not. Follow up what you learnt and if you have made progress. 
