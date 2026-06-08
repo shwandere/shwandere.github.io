@@ -15,6 +15,7 @@ tags: [research, problem solving, pattern recognition, concepts, project managem
 6) Creating is better than consuming. This statement is above publishing papers. But as a daily research activity\
 7) Keep stress measurable just like manja of the kite. Dont keep it tight that kite cannot fly up and dont keep it so loose that you loose the grip of it.\
 8) PhD is study only so routine, discipline will help, same as it will help Peehu.
+9) What needs to be improved is to be measured.
 
 # how to train your subconscious mind 
 
