@@ -23,7 +23,8 @@ I know that research is a journey :
 1) you publish papers with the work.
 2) you try to understand the problem better in the process. 
 
-**About publishing papers** :\ 
+**About publishing papers** :
+
 It is said everywhere that you dont have to get perfect problem or solution to publish. Publishing happens with progressive work also. And I tried giving myself timelines to publish and it is the first step and easiest thing to do. I thought about a few ideas to work on. But I have to define how they connect to the main problem first
 
 **About problem** : 
