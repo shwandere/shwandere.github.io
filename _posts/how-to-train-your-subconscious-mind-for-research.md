@@ -1,3 +1,10 @@
+---
+layout: post
+title: "How to train your subconscious mind for research"
+date: 2026-6-8
+tags: [research, problem solving, pattern recognition, concepts, project management]
+--- 
+
 **First of all a few points to believe or accept about research** : 
 
 1) You will never be able to learn or understand anything fully neither yourself, your parents, partner, children or your research topic. Even scientist like Richard Feynman or other researchers, scientist still crave to study because they will be able to better understand a topic. That's why Prof always give more weightage to relations with bachelor students. 
