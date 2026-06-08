@@ -13,7 +13,8 @@ tags: [research, problem solving, pattern recognition, concepts, project managem
 4) I have judged my skills either learning skills or problem solving skills a lot. And it always pulled me down from the work. Comparing myself to others because i thought it will help me to learn new things from others. But it did not help much in work or study concerns. So you its important to believe yourself first. No matter how was the journey till now. Yes I have 5 years gap in career. I wasted my 20s. But I am sure about that believing yourself and in your skills will only help you in future. If your mind tells yourself again and again that you cant do it. Tell yourself that you can. Not faking it till you make it. I will fail and learn from the process. But also actually believing in your self in the process. That I am good at actual work also. Its not only about chasing something but also about being.\ 
 5) What perspective I know about research are mathematics and problem solving.\
 6) Creating is better than consuming. This statement is above publishing papers. But as a daily research activity\
-7) Keep stress measurable just like manja of the kite. Dont keep it tight that kite cannot fly up and dont keep it so loose that you loose the grip of it.\ 
+7) Keep stress measurable just like manja of the kite. Dont keep it tight that kite cannot fly up and dont keep it so loose that you loose the grip of it.\
+8) PhD is study only so routine, discipline will help, same as it will help Peehu.
 
 # how to train your subconscious mind 
 
@@ -48,5 +49,18 @@ In response to the question "how to train your subconscious mind for research?" 
 - prepare a system concept for the problem either for every paper or for the overall problem. 
 - implementing a paper is only one activity. I still dont know how to use for the bigger picture. give me that what is the use of implementing the paper. I feel like I am stuck. i dont know what is the next step after reproducing the paper. Probably it gives system thinking approach for the problem. But how to use it. i dont know how to define experiments. Asking questions like what assumptions it holds, what is the claim. You have to sit with the paper. Keeping the focus intact. 
 - keep going again and again to the youtube video : # Unlocking Your Intuition: How to Solve Hard Problems Easily[](https://www.youtube.com/@ColinGalen) to understand what are the other ways or activities that I can do for problem solving. 
-- follow mathematics concepts for the problem or game theory concepts for the problem as it is multimodal problem. working on conceptual or theoretical level. 
-- follow up with yourself or reflect about the process. If you are stuck, or what approach you are following. 
+- follow mathematics concepts for the problem or game theory concepts for the problem as it is multimodal problem.
+- working on conceptual or theoretical level. learning new concepts in deep learning 
+- follow up with yourself or reflect about the process. If you are stuck, or what approach you are following.
+
+Initially when i looked out for <span style="background-color: yellow;">intrinsic quality</span> necessary for research the very best answer waa curiosity. I don't know how prone it is. 
+
+But i started with the interest to study. It is following up with teh skill of problem solving. And the intrinsic quality that I am finding useful is.....When for the first time I watched youtube video about subconscious problem solving. It was clear to me that I am going in the right direction and it really boosted my confidence to go ahead. It felt like I have found a missing part of the puzzle. Today I was asking different questions about the problem like what different aspects of research can be it probably gave me confidence in the direction.
+
+No matter how much I believe myself to be problem solver, nothing can beat the actual work. 
+
+But the question was how to motivate yourself to come daily and do actual work. It cant be discipline or curiosity. It cant be the big statements like to serve the humanity or science. According to chatgpt it is evident progress. Progress towards understanding something, or doing something which I couldnt yesterday 
+
+I always found technology exciting. 
+
+For me it felt like hope and a second chance to believe in myself. 
