@@ -64,3 +64,7 @@ But the question was how to motivate yourself to come daily and do actual work. 
 I always found technology exciting. 
 
 For me it felt like hope and a second chance to believe in myself. Other than that its about creation. I was always dependent on my friends or parents or sibling for creation either it is food or drawing or a small writing for speech in school. I never gained confidence for creativity in myself. Btech was the first time when I created a computer vision project by myself. I still feel proud even for that small project of mouse control using finger gesture. It is a chance to gain confidence in my creativity at problem solving level. Thats what I know. 
+
+Yes chatgpt was true about the intrinsic motivation for me is learning a new framework to work around. Above I created a framework. And I am feeling it easier to work. 
+
+Last thing is to define activity daily and adapt yourself to finish 6 hours deep work daily.
