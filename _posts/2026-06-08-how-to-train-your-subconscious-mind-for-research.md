@@ -8,9 +8,9 @@ tags: [research, problem solving, pattern recognition, concepts, project managem
 **First of all a few points to believe or accept about research** : 
 
 1) You will never be able to learn or understand anything fully neither yourself, your parents, partner, children or your research topic. Even scientist like Richard Feynman or other researchers, scientist still crave to study because they will be able to better understand a topic. That's why Prof always give more weightage to relations with bachelor students.\
-2) Second I have 3 more years to complete the PhD. And 3 years is a long time to work on yourself and towards research for outputs.\ 
+2) Second I have 3 more years to complete the PhD. And 3 years is a long time to work on yourself and towards research for outputs.\
 3) Only positive thoughts and giving yourself command will never help. Only actual work will, which is I know and defined below (give yourself goals to complete daily regarding problem or research perspective)\
-4) I have judged my skills either learning skills or problem solving skills a lot. And it always pulled me down from the work. Comparing myself to others because i thought it will help me to learn new things from others. But it did not help much in work or study concerns. So you its important to believe yourself first. No matter how was the journey till now. Yes I have 5 years gap in career. I wasted my 20s. But I am sure about that believing yourself and in your skills will only help you in future. If your mind tells yourself again and again that you cant do it. Tell yourself that you can. Not faking it till you make it. I will fail and learn from the process. But also actually believing in your self in the process. That I am good at actual work also. Its not only about chasing something but also about being.\ 
+4) I have judged my skills either learning skills or problem solving skills a lot. And it always pulled me down from the work. Comparing myself to others because i thought it will help me to learn new things from others. But it did not help much in work or study concerns. So you its important to believe yourself first. No matter how was the journey till now. Yes I have 5 years gap in career. I wasted my 20s. But I am sure about that believing yourself and in your skills will only help you in future. If your mind tells yourself again and again that you cant do it. Tell yourself that you can. Not faking it till you make it. I will fail and learn from the process. But also actually believing in your self in the process. That I am good at actual work also. Its not only about chasing something but also about being.\
 5) What perspective I know about research are mathematics and problem solving.\
 6) Creating is better than consuming. This statement is above publishing papers. But as a daily research activity\
 7) Keep stress measurable just like manja of the kite. Dont keep it tight that kite cannot fly up and dont keep it so loose that you loose the grip of it.\
@@ -20,14 +20,13 @@ tags: [research, problem solving, pattern recognition, concepts, project managem
 
 I know that research is a journey : 
 
-1) you publish papers with the work. 
+1) you publish papers with the work.
 2) you try to understand the problem better in the process. 
 
 **About publishing papers** : 
 It is said everywhere that you dont have to get perfect problem or solution to publish. Publishing happens with progressive work also. And I tried giving myself timelines to publish and it is the first step and easiest thing to do. I thought about a few ideas to work on. But I have to define how they connect to the main problem first
 
 **About problem** : 
-
 - I felt like changing the topic, rather change the paper. What are your fears regarding the topic? I asked question with some vague question that is how the temporal aspect of a video can be understood. Instead of understanding the topic as well as the question was not focused to the topic ie audio-visual 
 - Intrinsic motivation for research : If I am not harming my own research. Discipline? 
 - One best advice was feed your brain for the best information to proceed or better understand the problem.  
