@@ -14,14 +14,14 @@ tags: [research, problem solving, pattern recognition, concepts, project managem
 5) What perspective I know about research are mathematics and problem solving.\
 6) Creating is better than consuming. This statement is above publishing papers. But as a daily research activity\
 7) Keep stress measurable just like manja of the kite. Dont keep it tight that kite cannot fly up and dont keep it so loose that you loose the grip of it.\
-8) PhD is study only so routine, discipline will help, same as it will help Peehu.
+8) PhD is study only so routine, discipline will help, same as it will help Peehu.\
 9) What needs to be improved is to be measured.
 
 # how to train your subconscious mind 
 
 I know that research is a journey : 
 
-1) you publish papers with the work.
+1) you publish papers with the work.\
 2) you try to understand the problem better in the process. 
 
 **About publishing papers** :
@@ -38,9 +38,9 @@ It is said everywhere that you dont have to get perfect problem or solution to p
 - I wish to work on the research topic from two perspectives : problem solving and system thinking. give yourself activities regarding that also.
 
 In response to the question "how to train your subconscious mind for research?" every AI chatbot gave the same answer, 
-1) feed your mind with good information 
-2) ask precise actionable questions so that it remains clear to the mind what to think about? 
-3) Ask good questions. Where dont try to find an answer to the problem. I found various answers to the questions unconsciously like just waking up from sleep. So keep a journal for questions like this through journaling
+1) feed your mind with good information\ 
+2) ask precise actionable questions so that it remains clear to the mind what to think about?\ 
+3) Ask good questions. Where dont try to find an answer to the problem. I found various answers to the questions unconsciously like just waking up from sleep. So keep a journal for questions like this through journaling\
 
 <span style="background-color: yellow;">Defining activities</span> : 
 
