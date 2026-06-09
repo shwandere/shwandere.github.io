@@ -40,7 +40,7 @@ It is said everywhere that you dont have to get perfect problem or solution to p
 In response to the question "how to train your subconscious mind for research?" every AI chatbot gave the same answer :\
 1) feed your mind with good information\
 2) ask precise actionable questions so that it remains clear to the mind what to think about?\
-3) Ask good questions. Where dont try to find an answer to the problem. I found various answers to the questions unconsciously like just waking up from sleep. So keep a journal for questions like this through journaling\
+3) Ask good questions. Where dont try to find an answer to the problem. I found various answers to the questions unconsciously like just waking up from sleep. So keep a journal for questions like this through journaling
 
 <span style="background-color: yellow;">Defining activities</span> : 
 
