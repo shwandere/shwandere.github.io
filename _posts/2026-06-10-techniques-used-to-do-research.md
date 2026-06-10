@@ -11,6 +11,14 @@
 - cross-subject theory experimentation like game theory to multimodality
 
 <hr style="border: none; border-top: 1px solid #ccc;">
+ 
+<span style="background-color: yellow;">It made me think about the different phases of research:</span> :
+
+- initial curiosity phase : where you try to think about the problem from a perspective of newbie
+- searching phase : where you try to find different paradigms that give you perspective to look at the problem like my multimodality perspective to see the audio visual problem and I think its the most basic one. 
+- courage phase : where you pick an idea or paper and try to understand the problem from that tiny perspective. thats where courage is required because you dont know if it will work or not
+
+<hr style="border: none; border-top: 1px solid #ccc;">
 
 <span style="background-color: yellow;">is there any video or blog or linkedin post available?</span> :
 
