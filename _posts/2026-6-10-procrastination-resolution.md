@@ -18,17 +18,17 @@ How to push yourself for work :
 9) Giving yourself goals for weekly and daily helped previously as well. The least thing you can do daily is start. But what hinders it :\
 	- I dont follow through the work I was doing previously. I start getting stuck in the trap of procrastination. In this case giving goals doesnot help.\
 	- When I have to decide everyday what do I need to do today.\
-10) What Prof Vikram Gadre suggested when I asked him how to deal with failure in the research process? I remember a few points :\ 
-	1) Talk to your supervisor about the failures\ 
-	2) Keep a backtrack point in your research that you can go back to it if you fail in the process\ 
+10) What Prof Vikram Gadre suggested when I asked him how to deal with failure in the research process? I remember a few points :\
+	- Talk to your supervisor about the failures\ 
+	- Keep a backtrack point in your research that you can go back to it if you fail in the process\ 
 11) Keep a constraint on how much time you spent on thinking about the problem and actually facing it.\  
-12) I always kept thinking, feelings, life, decision, control, emotions separate and found strategies to deal with them separately. Things are mixing. And am learning how to face them. Its ok to start small and build muscles with time.\ 
-13) You know thats how I used to work till now. Allow my mind to process problems with the unconscious mind. And accept the solution. So I rewarded procrastination. But I dont think that strategy is helping me anymore. Accept that you are lazy. I judge things, people and myself to not prevent myself going in that direction and protect myself. But I cant rely on that thinking always because research is not allowing me to do that. It needs proof to reject something.\ 
-14) Take help of your body and thoughts to change needed for the research.\ 
-15) Keep the journals handy so that I can get a second brain. I dont have to memorize everything.\ 
-17) I relied on emotional safety till now. I thought it will help keeping my life in control. But I know that this is not true. Better to keep the life focused and in control. I hope I can overcome my fears.\  
-18) Keeping myself focused is the only work I have.\
-19) Keep candies to your side. A little sugar gives your little energy. 
+12) I always kept thinking, feelings, life, decision, control, emotions separate and found strategies to deal with them separately. Things are mixing. And am learning how to face them. Its ok to start small and build muscles with time.\
+13) You know thats how I used to work till now. Allow my mind to process problems with the unconscious mind. And accept the solution. So I rewarded procrastination. But I dont think that strategy is helping me anymore. Accept that you are lazy. I judge things, people and myself to not prevent myself going in that direction and protect myself. But I cant rely on that thinking always because research is not allowing me to do that. It needs proof to reject something.\
+14) Take help of your body and thoughts to change needed for the research.\
+15) Keep the journals handy so that I can get a second brain. I dont have to memorize everything.\
+16) I relied on emotional safety till now. I thought it will help keeping my life in control. But I know that this is not true. Better to keep the life focused and in control. I hope I can overcome my fears.\
+17) Keeping myself focused is the only work I have.\
+18) Keep candies to your side. A little sugar gives your little energy. 
 
 <hr style="border: none; border-top: 1px solid #ccc;">
 
