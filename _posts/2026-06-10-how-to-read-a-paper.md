@@ -24,7 +24,7 @@ If the paper is outside the topic :
 	- problem formulation
 	- evaluation strategy
 	
-	to my problem?
+	to my problem?\
 6) I would rename this section.
 
 Instead of:
