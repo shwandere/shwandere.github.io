@@ -5,7 +5,7 @@ date: 2026-6-10
 tags: [research, problem solving, pattern recognition, concepts, project management]
 --- 
 
-If the paper is related to your topic : 
+If the paper is related to your topic :\ 
 1) You can note what innovation it added\
 2) problem addressed\
 3) psychology behind it using its literature review\
