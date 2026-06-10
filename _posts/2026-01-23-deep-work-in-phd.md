@@ -18,4 +18,5 @@ One part of deep work is PhD is to keep in mind that your work in the PhD is to 
 2) finding a research question : for that two main exercises are understanding the previous works critically and finding a problem in the work or mentioned in the paper that you can work on.\
 3) working towards building a solution : what I have understood while talking to some seniors the main aim with starting a solution is not perfection, but working towards it consistently. It may take a few iterations to refine the solution. Starting anyway is more important than aiming for perfection. And what I concluded is that your paper does not need to be perfect to get published; it just need to define an idea.  
 
-Good video explaining from the book Deep work by Cal Newport : [https://www.youtube.com/watch?v=tKkd6Zsz9gA]
+Good video explaining from the book Deep work by Cal Newport : [MIT PhD taught me to unlock my brain’s “Sage Mode” - Deep Work (Full Summary)
+](https://www.youtube.com/watch?v=tKkd6Zsz9gA)
