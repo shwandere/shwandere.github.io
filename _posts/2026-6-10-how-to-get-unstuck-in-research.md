@@ -8,6 +8,7 @@ tags: [research, problem solving, pattern recognition, concepts, project managem
 Productivity has actually become a concept in my head. And I am learning how to increase productivity.\
 		- By coming out of that stuck place, not literally or physically but thoughts wise, it gives you a push to move forward\
 		- Figuring out how to move forward in research like verification of the idea and all\ 
+
 Productivity is of 2 types :\ 
 			- doing the actual work : giving measurable goals, using tools like mendeley\
 			- when you dont know the next step. you feel stuck.\ 
