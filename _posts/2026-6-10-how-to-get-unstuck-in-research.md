@@ -1,3 +1,10 @@
+---
+layout: post
+title: "How to get unstuck in research"
+date: 2026-6-10
+tags: [research, problem solving, pattern recognition, concepts, project management]
+--- 
+
 Productivity has actually become a concept in my head. And I am learning how to increase productivity. 
 		- By coming out of that stuck place, not literally or physically but thoughts wise, it gives you a push to move forward
 		- Figuring out how to move forward in research like verification of the idea and all 
