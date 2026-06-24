@@ -11,7 +11,8 @@ Productivity is of 2 types :
 
 - **I dont know if the way I am going is right or not.
 - remember few points told by Prof Vikram Gadre
-- [How to get unstuck in research](https://www.youtube.com/watch?v=OKjJ-MwLzXE)
+- [How to stop feeling stuck during your PhD [7 easy steps]](https://www.youtube.com/watch?v=OKjJ-MwLzXE) By [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton)
+
 
 <hr style="border: none; border-top: 1px solid #ccc;">
 
