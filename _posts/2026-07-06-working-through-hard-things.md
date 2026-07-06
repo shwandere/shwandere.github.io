@@ -24,12 +24,13 @@ Building a system can not be logical. Like just mention list of activities for y
 
 # Values : 
 
-1) there will be feelings of confusion you have to come out of them 
-2) there will be no guidance in PhD. Doubt will always be there. you have to push yourself through the solution 
-3) Respect the deadlines like God specially conferences. There are the saviors for you. 
-4) Push yourself even when you dont know, and learn on the way using creativity or logic or planning whatever works for you. 
-5) Lateral thinking help a lot when you cant find a direct solution or deal with it directly.  
-6) Only believing yourself can help you through it. 
+1) there will be feelings of confusion you have to come out of them\
+2) there will be no guidance in PhD. Doubt will always be there. you have to push yourself through the solution\ 
+3) Respect the deadlines like God specially conferences. There are the saviors for you.\ 
+4) Push yourself even when you dont know, and learn on the way using creativity or logic or planning whatever works for you.\ 
+5) Lateral thinking help a lot when you cant find a direct solution or deal with it directly.\  
+6) Only believing yourself can help you through it.\
+
 # How to Force Your BRAIN to Do HARD Things (The Lotus Method)
 
 - the threat response : 
