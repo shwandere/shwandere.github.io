@@ -1,7 +1,7 @@
 
 I am Research scholar at IIT Roorkee in Computer Science Department. I am pursuing Ph.D degree under the kind guidance of Prof. R. Balasubramanian. My field of interest is Action recognition and Multimodal learning.
 
-Prior to comitting to this degree I worked as a project assistant at IIT Delhi under the supervision of Prof. Sunil Jha. I have also worked in the industry for 2.5 years providing the solutions in Computer vision and OCR technologies. 
+Prior to comitting to this degree I worked as a project assistant at IIT Delhi under the supervision of Prof. Subodh Kumar. I have also worked in the industry for 2.5 years providing the solutions in Computer vision and OCR technologies. 
 
 I am  a AI enthusiast. I like to listen to music and watch movies, old as well.Also, I like to do cooking, pottery and crochet(still learning).  
 
