@@ -23,6 +23,7 @@ Building a system can not be logical. Like just mention list of activities for y
 ###################################
 
 # Values : 
+
 1) there will be feelings of confusion you have to come out of them 
 2) there will be no guidance in PhD. Doubt will always be there. you have to push yourself through the solution 
 3) Respect the deadlines like God specially conferences. There are the saviors for you. 
