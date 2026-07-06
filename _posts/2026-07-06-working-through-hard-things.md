@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Working through hard things"
+date: 2026-07-06
+tags: [research, problem solving, pattern recognition, concepts, project management]
+--- 
+
+
 Since last day I am trying to study but I could not just sit and focus. 
 I think I have to have an objective approach towards the feeling of procrastination. 
 Writing helps me with seeing my own activities and feelings objectively. 
