@@ -48,12 +48,15 @@
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
     {% include site-icons.svg %}
 
-    {{ content }}
+    <!-- Example: Locate your layout's main wrapper tag and add the matching ID -->
+    <main id="MainContentArea" class="site-main">
+      {{ content }}
+    </main>
 
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 
     {% include site-before-end.html %}
-
+    
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
     <script>
