@@ -1,11 +1,12 @@
-// 1. Force-inject a reliable, clean, non-blocked instance of Fuse.js
+// 1. Force-inject your LOCAL repository instance of unminified Fuse.js
 if (typeof Fuse === 'undefined') {
     const script = document.createElement('script');
-    // Using unpkg network cdn to bypass local ad-blocker timeouts cleanly
-    script.src = 'https://unpkg.com';
+    // FIXED: Point to the clean unminified local file path
+    script.src = '/assets/js/fuse.js';
     script.async = false; 
     document.head.appendChild(script);
 }
+
 
 // 2. Wrap your search engine startup tasks
 async function initSearch() {
