@@ -20,6 +20,9 @@
 {% endif %}
 
 
-<!-- fuse lib for rk.js file -->
-<script src="https://cloudflare.com" defer></script>
-<script src="{{ '/assets/js/rk.js' | relative_url }}" defer></script>
+<!-- 1. Load the local unminified Fuse engine asset first -->
+<script src="{{ '/assets/js/fuse.js' | relative_url }}"></script>
+
+<!-- 2. Load your custom search script second, with a cache-buster timestamp -->
+<script src="{{ '/assets/js/rk.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+
