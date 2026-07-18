@@ -152,23 +152,62 @@ function toggleMainMenu(e) {
 }
 
 function handlePostSearch(searchData) {
-  return function (e) {
-    const text = e.target.value;
-    if (text) {
-      gaSearchText(text);
-      const results = search(text.trim(), searchData);
-      const mainContentArea = mainContentElement("Search: " + text);
-      updateList(mainContentArea, results.map((result) => ({
-        url: result.item.url,
-        title: result.item.title,
-        excerpt: result.item.excerpt
-      })));
-    } else {
-      const mainContentArea = mainContentElement("");
-      updateList(mainContentArea, searchData.posts.slice(0, 10));
+  return function(event) {
+    const text = event.target.value.trim();
+    const mainArea = document.getElementById("MainContentArea");
+    
+    if (!mainArea) return;
+
+    // If the input is completely empty, reload the page or clear search screen
+    if (text.length === 0) {
+      mainArea.innerHTML = "<p>Please type a keyword to search.</p>";
+      return;
     }
+
+    // Run our working search function
+    const searchResults = search(text, searchData);
+
+    // Build the Header layout on screen
+    mainArea.innerHTML = "<h1>Search: " + text + "</h1>";
+
+    if (searchResults.length === 0) {
+      mainArea.innerHTML += "<p>No matching blog posts found.</p>";
+      return;
+    }
+
+    // FIXED: Build a container block to hold our matching post cards
+    const resultsContainer = document.createElement("div");
+    resultsContainer.className = "search-results-list";
+
+    searchResults.forEach(function(result) {
+      // Handle both native Fuse array nests (.item) or plain objects
+      const post = result.item ? result.item : result;
+      
+      // Call your layout generator functions to paint the post cards
+      const row = document.createElement("article");
+      row.style.margin = "20px 0";
+      
+      const link = document.createElement("a");
+      link.href = post.url;
+      link.textContent = post.title;
+      link.style.fontSize = "1.5rem";
+      link.style.fontWeight = "bold";
+
+      const title = document.createElement("h2");
+      title.appendChild(link);
+
+      const excerpt = document.createElement("p");
+      excerpt.textContent = post.excerpt;
+
+      row.appendChild(title);
+      row.appendChild(excerpt);
+      resultsContainer.appendChild(row);
+    });
+
+    mainArea.appendChild(resultsContainer);
   };
 }
+
 
 function updateList(mainContentArea, results) {
   for (let result of results) {
