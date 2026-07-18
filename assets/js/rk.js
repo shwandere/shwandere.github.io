@@ -221,9 +221,14 @@ function search(text, searchData) {
 }
 
 async function fetchSearchData() {
-  const response = await fetch("/article-data.json");
-  return response.json();
+    const response = await fetch('/article-data.json'); 
+    const data = await response.json();
+    
+    // FIXED: If the JSON has a "posts" property, return that array directly.
+    // Otherwise, fall back to the plain data object.
+    return data._posts ? data._posts : data; 
 }
+
 
 function debounce(func, wait, immediate) {
 	var timeout;
