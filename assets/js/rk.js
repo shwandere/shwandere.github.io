@@ -227,18 +227,20 @@ function excerptElement({ excerpt }) {
 }
 
 function search(text, searchData) {
+  // Configured to match our local lightweight Fuse engine layout
   const options = {
-    tokenize: true,
-    matchAllTokens: true,
-    threshold: 0,
-    maxPatternLength: 32,
-    minMatchCharLength: 1,
-    includeMatches: true,
-    keys: ["title", "excerpt", "tags","content"],
+    keys: ["title", "excerpt", "tags", "content"],
+    threshold: 0.4 // 0 is too strict for long body content; 0.4 enables reliable matching
   };
-  const fuse = new Fuse(searchData.posts, options);
+
+  // FIXED: If searchData is already an array, use it directly. 
+  // If it's a nested object with a posts key, extract it safely.
+  const postsArray = searchData.posts ? searchData.posts : searchData;
+
+  const fuse = new Fuse(postsArray, options);
   return fuse.search(text);
 }
+
 
 async function fetchSearchData() {
     const response = await fetch('/article-data.json'); 
