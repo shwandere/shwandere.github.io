@@ -1,11 +1,21 @@
-// 1. Force-inject your LOCAL repository instance of unminified Fuse.js
-if (typeof Fuse === 'undefined') {
-    const script = document.createElement('script');
-    // FIXED: Point to the clean unminified local file path
-    script.src = '/assets/js/fuse.js';
-    script.async = false; 
-    document.head.appendChild(script);
-}
+// Ensure any dynamic injection code is deleted. Start directly with your search function:
+async function initSearch() {
+    const postSearch = document.getElementById("PostSearch");
+    
+    // Safety exit if layout doesn't feature a search bar
+    if (!postSearch) return; 
+
+    try {
+        const searchData = await fetchSearchData();
+        
+        // Bind search behaviors safely
+        postSearch.addEventListener("keyup", debounce(handlePostSearch(searchData), 500), false);
+        
+        if (typeof gaClickSearch === "function") {
+            postSearch.addEventListener("click", gaClickSearch, false);
+        }
+        // ... leave the rest of your initSearch code as is
+
 
 
 // 2. Wrap your search engine startup tasks
