@@ -1,19 +1,44 @@
 (function () {
-  document.addEventListener(
-    "DOMContentLoaded",
-    async function () {
-      const postSearch = document.getElementById("PostSearch");
+  async function initSearch() {
+    const postSearch = document.getElementById("PostSearch");
+    
+    // Safely stop execution if the layout is not completely drawn yet
+    if (!postSearch) {
+      console.log("Search target missing, retrying engine layout initialization...");
+      return;
+    }
+
+    try {
       const searchData = await fetchSearchData();
+      
+      // Bind tracking systems
       postSearch.addEventListener("keyup", debounce(handlePostSearch(searchData), 500), false);
       postSearch.addEventListener("click", gaClickSearch, false);
 
       const menuCheckbox = document.getElementById("menu-checkbox");
-      menuCheckbox.addEventListener("pointerdown", toggleMainMenu);
-      articleProgressBar();
-      headerLinking();
-    },
-    false
-  );
+      if (menuCheckbox) {
+        menuCheckbox.addEventListener("pointerdown", toggleMainMenu);
+      }
+      
+      // Run theme decoration tasks safely
+      if (typeof articleProgressBar === "function") articleProgressBar();
+      if (typeof headerLinking === "function") headerLinking();
+      
+      console.log("Search tracking module active!");
+    } catch (err) {
+      console.error("Search engine initialization crashed: ", err);
+    }
+  }
+
+  // Force system execution order checks
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initSearch, false);
+  } else {
+    initSearch();
+  }
+// Note: Ensure the rest of your original rk.js functions remain directly below this point
+
+  //);
 })();
 
 function gaClickSearch(){
