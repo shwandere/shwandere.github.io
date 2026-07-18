@@ -5,29 +5,49 @@ async function initSearch() {
     // Safety exit if layout doesn't feature a search bar
     if (!postSearch) return; 
 
-    try {
-        const searchData = await fetchSearchData();
-        
-        // Bind search behaviors safely
-        postSearch.addEventListener("keyup", debounce(handlePostSearch(searchData), 500), false);
-        
-        if (typeof gaClickSearch === "function") {
-            postSearch.addEventListener("click", gaClickSearch, false);
-        }
-
-        const menuCheckbox = document.getElementById("menu-checkbox");
-        if (menuCheckbox && typeof toggleMainMenu === "function") {
-            menuCheckbox.addEventListener("pointerdown", toggleMainMenu);
-        }
-        
-        if (typeof articleProgressBar === "function") articleProgressBar();
-        if (typeof headerLinking === "function") headerLinking();
-        
-        console.log("Search tracking module active and Fuse engine bound successfully!");
-    } catch (err) {
-        // FIXED: Added the required catch block to fix the syntax crash
-        console.error("Search engine initialization crashed: ", err);
+    // Locate where you process your data array inside initSearch() and update it:
+	try {
+	    let searchData = await fetchSearchData();
+	    
+	    // FIXED: If your json file has a root array, use it directly. 
+	    // If it has a .posts nested wrapper, extract it safely.
+	    if (searchData && searchData.posts) {
+	        searchData = searchData.posts;
+	    }
+	
+	    // Initialize Fuse with the clean, flat post data array
+	    const searchOptions = { keys: ['title', 'excerpt', 'tags', 'content'], threshold: 0.4 };
+	    const fuseInstance = new Fuse(searchData, searchOptions);
+	    
+	    // Bind search behavior tracking
+	    postSearch.addEventListener("keyup", debounce(handlePostSearch(fuseInstance), 500), false);
+	    
+	    console.log("Search engine fully bound to flat array layout!");
+	} catch (err) {
+	    console.error("Initialization error: ", err);
+}
+// Locate where you process your data array inside initSearch() and update it:
+try {
+    let searchData = await fetchSearchData();
+    
+    // FIXED: If your json file has a root array, use it directly. 
+    // If it has a .posts nested wrapper, extract it safely.
+    if (searchData && searchData.posts) {
+        searchData = searchData.posts;
     }
+
+    // Initialize Fuse with the clean, flat post data array
+    const searchOptions = { keys: ['title', 'excerpt', 'tags', 'content'], threshold: 0.4 };
+    const fuseInstance = new Fuse(searchData, searchOptions);
+    
+    // Bind search behavior tracking
+    postSearch.addEventListener("keyup", debounce(handlePostSearch(fuseInstance), 500), false);
+    
+    console.log("Search engine fully bound to flat array layout!");
+} catch (err) {
+    console.error("Initialization error: ", err);
+}
+
 }
 
 // 2. Fire startup sequence cleanly matching DOM ready states
