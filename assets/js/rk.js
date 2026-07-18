@@ -14,6 +14,8 @@ async function initSearch() {
         if (typeof gaClickSearch === "function") {
             postSearch.addEventListener("click", gaClickSearch, false);
         }
+	}
+}
         // ... leave the rest of your initSearch code as is
 
 
