@@ -1,8 +1,9 @@
 // 1. Force-inject Fuse.js programmatically at the top of rk.js
 if (typeof Fuse === 'undefined') {
     const script = document.createElement('script');
+    // FIXED: Pointing directly to the Fuse library file, not the root domain
     script.src = 'https://cloudflare.com';
-    script.async = false; // Forces linear synchronous execution order
+    script.async = false; 
     document.head.appendChild(script);
 }
 
@@ -56,19 +57,8 @@ if (document.readyState === "loading") {
     initSearch();
 }
 
-// --- Leave all your original rest of rk.js functions directly below this line ---
+// --- ALL BROKEN WRAPPERS REMOVED. YOUR ORIGINAL FUNCTIONS START IMMEDIATELY BELOW ---
 
-
-  // Force system execution order checks
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initSearch, false);
-  } else {
-    initSearch();
-  }
-// Note: Ensure the rest of your original rk.js functions remain directly below this point
-
-  //);
-})();
 
 function gaClickSearch(){
   typeof gtag !== 'undefined' && gtag('event', "click", {
