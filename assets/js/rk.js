@@ -1,34 +1,63 @@
-(function () {
-  async function initSearch() {
+// 1. Force-inject Fuse.js programmatically at the top of rk.js
+if (typeof Fuse === 'undefined') {
+    const script = document.createElement('script');
+    script.src = 'https://cloudflare.com';
+    script.async = false; // Forces linear synchronous execution order
+    document.head.appendChild(script);
+}
+
+// 2. Wrap your search engine startup tasks
+async function initSearch() {
     const postSearch = document.getElementById("PostSearch");
     
-    // Safely stop execution if the layout is not completely drawn yet
-    if (!postSearch) {
-      console.log("Search target missing, retrying engine layout initialization...");
-      return;
+    // Safety exit if layout doesn't feature a search bar
+    if (!postSearch) return; 
+
+    // Wait explicitly up to 3 seconds for the Fuse network script to initialize
+    let attempts = 0;
+    while (typeof Fuse === 'undefined' && attempts < 30) {
+        await new Promise(resolve => setTimeout(resolve, 100));
+        attempts++;
+    }
+
+    if (typeof Fuse === 'undefined') {
+        console.error("CRITICAL: Fuse.js CDN timed out over the network.");
+        return;
     }
 
     try {
-      const searchData = await fetchSearchData();
-      
-      // Bind tracking systems
-      postSearch.addEventListener("keyup", debounce(handlePostSearch(searchData), 500), false);
-      postSearch.addEventListener("click", gaClickSearch, false);
+        const searchData = await fetchSearchData();
+        
+        // Bind search behaviors safely
+        postSearch.addEventListener("keyup", debounce(handlePostSearch(searchData), 500), false);
+        
+        if (typeof gaClickSearch === "function") {
+            postSearch.addEventListener("click", gaClickSearch, false);
+        }
 
-      const menuCheckbox = document.getElementById("menu-checkbox");
-      if (menuCheckbox) {
-        menuCheckbox.addEventListener("pointerdown", toggleMainMenu);
-      }
-      
-      // Run theme decoration tasks safely
-      if (typeof articleProgressBar === "function") articleProgressBar();
-      if (typeof headerLinking === "function") headerLinking();
-      
-      console.log("Search tracking module active!");
+        const menuCheckbox = document.getElementById("menu-checkbox");
+        if (menuCheckbox && typeof toggleMainMenu === "function") {
+            menuCheckbox.addEventListener("pointerdown", toggleMainMenu);
+        }
+        
+        if (typeof articleProgressBar === "function") articleProgressBar();
+        if (typeof headerLinking === "function") headerLinking();
+        
+        console.log("Search tracking module active and Fuse engine bound successfully!");
     } catch (err) {
-      console.error("Search engine initialization crashed: ", err);
+        console.error("Search engine initialization crashed: ", err);
     }
-  }
+}
+
+// 3. Fire startup sequence cleanly
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initSearch, false);
+} else {
+    initSearch();
+}
+
+// --- Leave all your original rest of rk.js functions directly below this line ---
+
 
   // Force system execution order checks
   if (document.readyState === "loading") {
