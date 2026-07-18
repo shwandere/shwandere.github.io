@@ -1,4 +1,4 @@
-// Ensure any dynamic injection code is deleted. Start directly with your search function:
+// 1. Wrap your search engine startup tasks cleanly with a safety catch block
 async function initSearch() {
     const postSearch = document.getElementById("PostSearch");
     
@@ -14,9 +14,30 @@ async function initSearch() {
         if (typeof gaClickSearch === "function") {
             postSearch.addEventListener("click", gaClickSearch, false);
         }
-	}
+
+        const menuCheckbox = document.getElementById("menu-checkbox");
+        if (menuCheckbox && typeof toggleMainMenu === "function") {
+            menuCheckbox.addEventListener("pointerdown", toggleMainMenu);
+        }
+        
+        if (typeof articleProgressBar === "function") articleProgressBar();
+        if (typeof headerLinking === "function") headerLinking();
+        
+        console.log("Search tracking module active and Fuse engine bound successfully!");
+    } catch (err) {
+        // FIXED: Added the required catch block to fix the syntax crash
+        console.error("Search engine initialization crashed: ", err);
+    }
 }
-        // ... leave the rest of your initSearch code as is
+
+// 2. Fire startup sequence cleanly matching DOM ready states
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initSearch, false);
+} else {
+    initSearch();
+}
+
+// --- YOUR ORIGINAL REST OF THE FILE FUNCTIONS (fetchSearchData, debounce, etc.) START HERE ---
 
 
 
