@@ -214,7 +214,7 @@ function search(text, searchData) {
     maxPatternLength: 32,
     minMatchCharLength: 1,
     includeMatches: true,
-    keys: ["title", "excerpt", "tags"],
+    keys: ["title", "excerpt", "tags","content"],
   };
   const fuse = new Fuse(searchData.posts, options);
   return fuse.search(text);
