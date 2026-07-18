@@ -1,8 +1,8 @@
-// 1. Force-inject Fuse.js programmatically from your OWN repository assets
+// 1. Force-inject a reliable, clean, non-blocked instance of Fuse.js
 if (typeof Fuse === 'undefined') {
     const script = document.createElement('script');
-    // FIXED: Points locally to your new asset file path
-    script.src = '/assets/js/fuse.min.js';
+    // Using unpkg network cdn to bypass local ad-blocker timeouts cleanly
+    script.src = 'https://unpkg.com';
     script.async = false; 
     document.head.appendChild(script);
 }
