@@ -1,8 +1,8 @@
-// 1. Force-inject Fuse.js programmatically at the top of rk.js
+// 1. Force-inject Fuse.js programmatically from your OWN repository assets
 if (typeof Fuse === 'undefined') {
     const script = document.createElement('script');
-    // FIXED: Pointing directly to the Fuse library file, not the root domain
-    script.src = 'https://cloudflare.com';
+    // FIXED: Points locally to your new asset file path
+    script.src = '/assets/js/fuse.min.js';
     script.async = false; 
     document.head.appendChild(script);
 }
