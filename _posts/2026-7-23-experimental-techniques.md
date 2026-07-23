@@ -1,10 +1,10 @@
 In research one thing that is most important and can help analysing your idea or refining it is experiments. Initially what I thought that implmentation of your idea and reproducing the paper and ablation studies are the only activities in the name of experiments. Experiments can help you analyse understanding the bigger picture better. 
 In deep learning, as the problem gets complex, its implementation and exeprimenting with it becomes harder. So while reproducing a paper I found a few useful points for experiments : 
 
-1) **When a complex system fails, don't treat it as one problem. Decompose it into smaller, testable hypotheses. 
-2) **freeze everything except one
-3) **Instead of proving the idea, focus on how to prove if my idea is wrong. (If your idea survives attempts to break it,it's becoming stronger)
-4) **stress testing : thats where the ideas are built on the usage of your idea in the bigger picture 
+1) **When a complex system fails, don't treat it as one problem. Decompose it into smaller, testable hypotheses.\ 
+2) **freeze everything except one\
+3) **Instead of proving the idea, focus on how to prove if my idea is wrong. (If your idea survives attempts to break it,it's becoming stronger)\
+4) **stress testing : thats where the ideas are built on the usage of your idea in the bigger picture\ 
 		What happens if
 		- videos are short?
 		- videos are long?
