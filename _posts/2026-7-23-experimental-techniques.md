@@ -24,12 +24,12 @@ In deep learning, as the problem gets complex, its implementation and exepriment
 <hr style="border: none; border-top: 1px solid #ccc;">
 
 **For system thinking figure out what are the different systems you are dealing with : 
-		- either by identifying different classes
+- either by identifying different classes
 			- Is it the backbone?
 			- Is it the preprocessing?
 			- Is it NMS?
 			- Is it feature extraction?
-		- getting losses
+- getting losses
 
 <hr style="border: none; border-top: 1px solid #ccc;">
 
