@@ -6,11 +6,11 @@ In deep learning, as the problem gets complex, its implementation and exepriment
 3) **Instead of proving the idea, focus on how to prove if my idea is wrong. (If your idea survives attempts to break it,it's becoming stronger)  
 4) **stress testing : thats where the ideas are built on the usage of your idea in the bigger picture  
 	What happens if  
-		- videos are short?
+		- videos are short?  
    		- videos are long?  
-		- only rare classes?  
-		- noisy features?
-		- different seeds?  
+		- only rare classes?   
+		- noisy features?  
+		- different seeds?   
 6) **Think about how you think system should work and compare how it behaved (like via training curve)  
 7) **error taxonomy like where model fails. Like :  
 		- Localization errors  
